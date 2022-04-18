@@ -1,0 +1,118 @@
+.main-heading{
+    background: #b45350;
+    text-align: center;
+    padding: 30px 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+}
+
+#sec-heading{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 2%;
+    margin-bottom: 2%;
+   
+   
+}
+.button{
+    align-items: center;
+    justify-content: center;
+    margin-left: 23%;
+    margin-top: 4%;
+    width: 40%;
+    
+    
+}
+
+.btn-1 {
+    background: #b45350;
+    border: 1px solid #b45350;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 6%;
+    width: 60%;
+    height: 50%;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    margin: 20px;
+   
+  }
+  
+a{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color: #fff;
+}
+
+td{
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+}
+
+
+.card-img-top{
+    width: 80%;
+    height: 100%;
+    margin: 20px;
+}
+
+
+
+/* ----------------------Admin-------------------------- */
+
+.card{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+
+/* --------------------Patient details--------------------------- */
+
+
+.btn-2{
+    background-color: rgb(73, 133, 73);
+    border: none;
+    padding: 7px; 
+    color: #FFF;
+
+}
+
+/* ----------------reception details--------------------------- */
+
+.card-group{
+    margin: 20px;
+    padding: 20px;
+
+}
+ .card {
+    padding: 20px;
+    background-color: rgb(196, 158, 87);
+}
+
+/* -------------------------Patient---------------------- */
+
+
+.btn-3:hover{
+    color: #000;
+
+}
